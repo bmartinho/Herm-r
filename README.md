@@ -13,3 +13,8 @@ Buttons that will light on command and the player need to tap to turn off the li
 **Games and Challenges**
 1 - Challenge framework
 Common challenge definition that can be used across the different supporting software 
+
+ToDo:
+- Create first game, simple where the light will turn on at a random time and the capture the reaction time.
+- Update the code to manage the connection with the BLE device.
+- Update code to be able to use more than one light in the application.
